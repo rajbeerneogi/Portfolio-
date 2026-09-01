@@ -37,7 +37,7 @@ const PROJECTS = [
 
 const SKILLS = [
   "React", "JavaScript", "FastAPI", "Python", "Figma", "Git & GitHub",
-  "REST APIs", "CORS & deployment", "Vercel", "Render",
+  "REST APIs", "CORS & deployment", "Vercel", "Render", "HuggingFace",
 ];
 
 const BUILD_LOG = [
